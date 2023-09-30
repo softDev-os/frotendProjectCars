@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 476.25 337.44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#GradientFill_2);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: url(#GradientFill_1);
+        stroke: #231f20;
+        stroke-miterlimit: 22.93;
+        stroke-width: .57px;
+      }
+
+      .cls-2 {
+        fill: url(#GradientFill_4);
+      }
+
+      .cls-3 {
+        fill: url(#GradientFill_4-2);
+      }
+
+      .cls-4 {
+        fill: url(#GradientFill_3);
+      }
+    </style>
+    <radialGradient id="GradientFill_1" data-name="GradientFill 1" cx="304.15" cy="168.72" fx="304.15" fy="168.72" r="264.83" gradientTransform="translate(197.33 473.81) rotate(-90.5) scale(1 .65)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05171f"/>
+      <stop offset="1" stop-color="#071016"/>
+    </radialGradient>
+    <linearGradient id="GradientFill_2" data-name="GradientFill 2" x1="59.65" y1="105.72" x2="18.46" y2="147.37" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0c0d1c" stop-opacity="0"/>
+      <stop offset=".19" stop-color="#0c0d1c" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#e6ad2e"/>
+    </linearGradient>
+    <linearGradient id="GradientFill_3" data-name="GradientFill 3" x1="39.64" y1="183.58" x2="80.83" y2="141.93" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0c0d1c" stop-opacity="0"/>
+      <stop offset=".29" stop-color="#0c0d1c" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#ecb02e"/>
+    </linearGradient>
+    <linearGradient id="GradientFill_4" data-name="GradientFill 4" x1="35.31" y1="231.39" x2="35.31" y2="133.03" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#50b1b1"/>
+      <stop offset=".43" stop-color="#99b47a"/>
+      <stop offset="1" stop-color="#f7b935"/>
+    </linearGradient>
+    <linearGradient id="GradientFill_4-2" data-name="GradientFill 4" x1="20.76" y1="114.25" x2="96.21" y2="114.25" xlink:href="#GradientFill_4"/>
+  </defs>
+  <rect class="cls-5" x="132.34" y=".28" width="343.63" height="336.87" rx="168.44" ry="168.44"/>
+  <path class="cls-1" d="m12.52,147.07l9.72,7.01,48.38-34.91v-32.1l-58.11,41.92c-5.58,4.03-5.58,14.04,0,18.07Z"/>
+  <path class="cls-4" d="m86.77,142.23l-9.72-7.01-48.38,34.91v32.1l58.11-41.92c5.58-4.03,5.58-14.04,0-18.07Z"/>
+  <path class="cls-2" d="m12.49,147.05c-5.55-4.03-5.55-14,0-18.03l-1.58,1.14c-6.94,5.01-10.92,13.61-10.92,23.63v.59c0,10.02,3.97,18.62,10.92,23.63l59.71,43.08v-32.1l-58.13-41.94Z"/>
+  <path class="cls-3" d="m86.79,142.25c5.55,4.03,5.55,14,0,18.03l1.58-1.14c6.94-5.01,10.91-13.61,10.91-23.63v-.59c0-10.02-3.97-18.62-10.91-23.63l-59.71-43.08v32.1l58.13,41.94Z"/>
+</svg>
